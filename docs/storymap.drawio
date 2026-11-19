@@ -1,0 +1,151 @@
+<mxfile host="65bd71144e">
+    <diagram id="YZ3UYX7-6SHnwrjnsvTw" name="ページ-1">
+        <mxGraphModel dx="1350" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="yMKRcIOxyhWnn_-fjl-W-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ゲームスケジュール&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="40" width="180" x="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="yMKRcIOxyhWnn_-fjl-W-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="予定を入れる" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="yMKRcIOxyhWnn_-fjl-W-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="予定を思い出す" vertex="1">
+                    <mxGeometry height="60" width="120" x="600" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="yMKRcIOxyhWnn_-fjl-W-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="終わった予定を消す" vertex="1">
+                    <mxGeometry height="60" width="120" x="1080" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="yMKRcIOxyhWnn_-fjl-W-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="予定を入力" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="yMKRcIOxyhWnn_-fjl-W-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="スケジュールを確認" vertex="1">
+                    <mxGeometry height="60" width="120" x="600" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="yMKRcIOxyhWnn_-fjl-W-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="予定を削除" vertex="1">
+                    <mxGeometry height="60" width="120" x="920" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-1" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="ゲームをする人" vertex="1">
+                    <mxGeometry height="30" width="90" x="120" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="ゲームをする" vertex="1">
+                    <mxGeometry height="60" width="120" x="760" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="予定のゲームを&lt;br&gt;起動する" vertex="1">
+                    <mxGeometry height="60" width="120" x="760" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="予定のゲームをする" vertex="1">
+                    <mxGeometry height="60" width="120" x="920" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="✅アプリに文字を入力" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="✅予定を1つだけ&lt;br&gt;保存できる" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="予定を複数保存&lt;div&gt;できる&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="✅手動保存" vertex="1">
+                    <mxGeometry height="60" width="120" x="440" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自動保存" vertex="1">
+                    <mxGeometry height="60" width="120" x="440" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アプリを開いて&lt;div&gt;カレンダーを表示&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="600" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アプリのカレンダーに文字を入力" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="✅アプリを開いて&lt;div&gt;入力した予定を表示&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="600" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="予定を削除する" vertex="1">
+                    <mxGeometry height="60" width="120" x="1080" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="□アプリを開いて&lt;div&gt;入力した予定を削除&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="1080" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アプリを開いて&lt;div&gt;入力した予定に&lt;/div&gt;&lt;div&gt;チェックを入れる&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="1080" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="予定を通知する" vertex="1">
+                    <mxGeometry height="60" width="120" x="600" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ゲームのスコアを&lt;div&gt;記録できる&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="1080" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="予定をほかの人と&lt;div&gt;共有できる&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="600" y="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-19" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
+                    <mxGeometry height="60" width="110" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-20" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="タスクリスト" vertex="1">
+                    <mxGeometry height="60" width="110" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-21" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="通知機能" vertex="1">
+                    <mxGeometry height="60" width="110" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アプリに通知を設定" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-24" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="共有機能" vertex="1">
+                    <mxGeometry height="60" width="110" y="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アプリの共有カレンダーに文字を入力" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アプリからゲームを起動できる" vertex="1">
+                    <mxGeometry height="60" width="120" x="760" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-28" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ゲーム同期" vertex="1">
+                    <mxGeometry height="60" width="110" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-30" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="120" y="310" as="sourcePoint"/>
+                        <mxPoint x="1200" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-31" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="120" y="390" as="sourcePoint"/>
+                        <mxPoint x="1200" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-32" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="120" y="470" as="sourcePoint"/>
+                        <mxPoint x="1200" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-33" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="120" y="550" as="sourcePoint"/>
+                        <mxPoint x="1200" y="550" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-35" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint x="120" y="230" as="sourcePoint"/>
+                        <mxPoint x="1200" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-36" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="120" y="150" as="sourcePoint"/>
+                        <mxPoint x="1200" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OIlky-RB3wOcdHebS2Y5-37" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="120" y="630" as="sourcePoint"/>
+                        <mxPoint x="1200" y="630" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
