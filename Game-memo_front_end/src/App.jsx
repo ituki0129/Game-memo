@@ -1,7 +1,4 @@
 import { useState } from "react";
-import InputTask from "./InputTask";
-import SaveButton from "./SaveButton";
-import DisplayTask from "./DisplayTask";
 
 function App() {
   const [inputTask, setInputTask] = useState("");
@@ -15,22 +12,31 @@ function App() {
     setInputTask("");
   };
 
+  const deleteTask = () => {
+    localStorage.removeItem("task");
+    setSavedTask("");
+  };
+
   return (
     <div>
       <h1>予定入力</h1>
 
-      <InputTask
+      <input
+        type="text"
         value={inputTask}
-        onChange={setInputTask}
+        onChange={(e) => setInputTask(e.target.value)}
+        placeholder="予定を入力"
       />
 
-      <SaveButton
-        onClick={saveTask}
-      />
+      <button onClick={saveTask}>
+        保存
+      </button>
 
-      <DisplayTask
-        task={savedTask}
-      />
+      <button onClick={deleteTask}>
+        削除
+      </button>
+
+      <p>現在の予定: {savedTask}</p>
     </div>
   );
 }
