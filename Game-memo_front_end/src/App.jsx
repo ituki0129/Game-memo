@@ -1,7 +1,12 @@
 import { useState } from "react";
+import TaskInput from "./TaskInput";
+import SaveButton from "./SaveButton";
+import DeleteButton from "./DeleteButton";
+import TaskDisplay from "./TaskDisplay";
 
 function App() {
   const [inputTask, setInputTask] = useState("");
+
   const [savedTask, setSavedTask] = useState(
     localStorage.getItem("task") || ""
   );
@@ -21,22 +26,22 @@ function App() {
     <div>
       <h1>予定入力</h1>
 
-      <input
-        type="text"
+      <TaskInput
         value={inputTask}
-        onChange={(e) => setInputTask(e.target.value)}
-        placeholder="予定を入力"
+        onChange={setInputTask}
       />
 
-      <button onClick={saveTask}>
-        保存
-      </button>
+      <SaveButton
+        onClick={saveTask}
+      />
 
-      <button onClick={deleteTask}>
-        削除
-      </button>
+      <DeleteButton
+        onClick={deleteTask}
+      />
 
-      <p>現在の予定: {savedTask}</p>
+      <TaskDisplay
+        task={savedTask}
+      />
     </div>
   );
 }

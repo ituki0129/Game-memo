@@ -1,4 +1,4 @@
-function DisplayTask({ task }) {
+function TaskDisplay({ task }) {
   return (
     <div>
       <p>現在の予定: {task}</p>
@@ -6,4 +6,4 @@ function DisplayTask({ task }) {
   );
 }
 
-export default DisplayTask;
+export default TaskDisplay;

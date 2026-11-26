@@ -1,4 +1,4 @@
-function InputTask({ value, onChange }) {
+function TaskInput({ value, onChange }) {
   return (
     <input
       type="text"
@@ -9,4 +9,4 @@ function InputTask({ value, onChange }) {
   );
 }
 
-export default InputTask;
+export default TaskInput;
